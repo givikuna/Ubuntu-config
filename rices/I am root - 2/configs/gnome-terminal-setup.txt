@@ -1,0 +1,19 @@
+Text:
+
+Initial terminal size: 155
+columns: 50
+rows: 50
+cursor shape: block
+cursor blinking: default
+
+
+
+Colors:
+
+Default: Text: #C6D0F5 Background: #1F1F28
+Bold Color: #000000
+Cursor Color: #303446 #F2D5CF
+Highlight Color: #626880 #303446
+
+Pallete:
+Catppuccin Frappe

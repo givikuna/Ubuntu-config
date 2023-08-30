@@ -7,3 +7,4 @@ sudo npm update -g
 sudo flatpak update -y
 rustup update stable
 npm install -g npm@latest
+sudo npm update npm -g

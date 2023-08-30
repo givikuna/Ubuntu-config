@@ -1,5 +1,4 @@
 neofetch
-# cava
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
@@ -135,8 +134,8 @@ alias pornhub='python3 pornhub.py'
 
 alias firefox='flatpak run org.mozilla.firefox'
 alias settings='gnome-control-center'
-alias bashrc='sudo nano ~/.bashrc'
-alias sourcebashrc='source ~/.bashrc'
+alias bashrc='sudo nano .bashrc'
+alias sourcebashrc='source .bashrc'
 eval "$(thefuck --alias)"
 alias chrome='flatpak run com.google.Chrome'
 alias google='python3 google.py'
@@ -148,3 +147,11 @@ eval "$(starship init bash)"
 export PATH=$PATH:/home/giviko/.spicetify
 alias create-alias='python3 createAlias.py'
 alias starship-config='sudo nano ~/.config/starship.toml'
+alias discord='flatpak run com.discordapp.Discord'
+alias lock='gnome-screensaver-command -l'
+alias to-lower-case='ruby tolowercase.rb'
+alias to-upper-case='Capitalize'
+alias enable-forge='~/enable_forge.sh'
+alias disable-forge='~/disable_forge.sh'
+alias instagram='python3 ~/instargam.py'
+alias random-number='python3 ~/random_number.py'
